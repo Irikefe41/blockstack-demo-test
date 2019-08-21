@@ -1,3 +1,3 @@
-#Blockstack basic user authentication application.
+# Blockstack basic user authentication application.
 
 ### Exploration of blockstack's functionalities.
